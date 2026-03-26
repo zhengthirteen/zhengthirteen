@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td valign="top">
 
 ## about
 
@@ -10,9 +10,6 @@
 - 有些仓库是结果，有些仓库更像过程记录。
 - 如果某个仓库看起来有点乱，通常不是弃坑，更可能是它还在继续，所以暂时还没收拾。
 
-</td>
-<td width="44%" align="right" valign="top">
-  <img src="./assets/hero-panel.svg" width="100%" alt="decorative panel" />
 </td>
 </tr>
 </table>
@@ -43,8 +40,4 @@
 
 <p>
   平时主要和这些打交道。<br>
-</p>
-
-<p align="right">
-  <img src="./assets/orbit-mark.svg" width="110" alt="decorative mark" />
 </p>
